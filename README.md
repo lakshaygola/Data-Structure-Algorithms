@@ -14,9 +14,9 @@ So this Repository Contain 2 Folders
   
 ALL THIS FILE ARE WRITTEN IN PYTHON 3.0 LANGUAGE
 
-Soon, I Will be uploading for C++ also.
+Soon, I will be uploading for C++ also.
 
-Hope full this Repository can help you guyz to some instinct.
+Hope full this repository can help you guyz to some instinct.
 
 Thank You
 
