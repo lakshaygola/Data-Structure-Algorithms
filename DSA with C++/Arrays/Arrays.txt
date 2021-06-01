@@ -1,0 +1,4 @@
+Array is the most common data structure any languages. So here is the repo which help you to get the basic intiution behind the arrays
+and some basic problem on the arrays.
+
+Thank You
