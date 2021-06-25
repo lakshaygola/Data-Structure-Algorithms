@@ -1,4 +1,4 @@
-This is the stack data sturcture folder
+## Stack Data Structure
 
 
 This folder contain the basic operation and the function for the stack
